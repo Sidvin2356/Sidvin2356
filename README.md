@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @Sidvin2356
-- 👀 I’m interested in Artifical Intelligence, Machine learning and Deep neural networks
-- 🌱 I’m currently learning Btech Ai and Robotics
-- 💞️ I’m looking to collaborate on Major and minor industry ready real time projects
-- 📫 How to reach me: sidharthv2006@gmail.com
-- 😄 Pronouns: He/HIM
+# 👋 Hey, I'm Sidharth V
 
-<!---
-Sidvin2356/Sidvin2356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech Student in AI & Robotics  
+🤖 Passionate about Artificial Intelligence, Robotics & Deep Learning  
+🚀 Building projects in Cognitive Robotics, ROS2 & AI Systems  
+🌱 Currently learning Reinforcement Learning, Computer Vision & Autonomous Systems  
+
+---
+
+## 💡 Interests
+- Artificial Intelligence
+- Robotics
+- Machine Learning
+- Cognitive Robotics
+- Autonomous Navigation
+- Web3 & Future Tech
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![ROS2](https://img.shields.io/badge/ROS2-black?style=for-the-badge&logo=ros)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+
+---
+
+## 🚧 Current Projects
+- 🤖 QUADRA — Quantum-inspired Autonomous Navigation Bot
+- 🧠 Cognitive Robotics Intelligence Layer
+- 🌐 Hobbyfy — Hobby-based Growth Platform
+
+---
+
+## 📫 Connect With Me
+- Email: yourmail@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/)
+- GitHub: [@Sidvin2356](https://github.com/Sidvin2356)
+
+---
+
+## ⚡ Fun Fact
+I love rain, story-driven games, Marvel, robotics, and futuristic tech.
