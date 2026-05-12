@@ -23,21 +23,13 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
 
----
 
-## 🚧 Current Projects
-- 🤖 QUADRA — Quantum-inspired Autonomous Navigation Bot
-- 🧠 Cognitive Robotics Intelligence Layer
-- 🌐 Hobbyfy — Hobby-based Growth Platform
 
 ---
 
 ## 📫 Connect With Me
-- Email: yourmail@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/)
-- GitHub: [@Sidvin2356](https://github.com/Sidvin2356)
+- Email: sidharthv2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sidharth-v-a24411297/
 
----
 
-## ⚡ Fun Fact
-I love rain, story-driven games, Marvel, robotics, and futuristic tech.
+
